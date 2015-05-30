@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/annotations.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/chimpchat.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/common.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/commons-compress-1.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/ddmlib.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/ddmuilib.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/dvlib.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/hierarchyviewer2.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/hierarchyviewer2lib.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/httpclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/httpmime-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/jcommon-1.0.12.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/jfreechart-swt-1.0.9.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/kxml2-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/layoutlib-api.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/org.eclipse.rap.rwt-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/org-eclipse-core-commands-3.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/org-eclipse-equinox-common-3.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/org-eclipse-jface-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/osgi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/git/MRJava/libs/sdklib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
